@@ -8,7 +8,8 @@ The architecture is designed to provide high availability, fault tolerance, and 
 
 # System Architecture
 
-![AWS Scalable Web Application Architecture](docs/aws-architecture.png)
+<img width="1551" height="880" alt="Screenshot 2026-11-09 161120" src="https://github.com/user-attachments/assets/db192fe1-3ab3-41e6-a164-182e3f39408e" />
+
 
 # Architecture Flow
 
